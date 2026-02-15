@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+env/
+.env
+
+# Data files (Too large for GitHub)
+data/*.csv
+data/processed/*.csv
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
